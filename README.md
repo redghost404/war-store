@@ -1,1 +1,1 @@
-# war-store
+just learning how web gate work# war-store
